@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{WEBSITE:1}
+\url{https://www.youtube.com/watch?v=8WKhMsS9HBw}.
+\newblock Accessed on 2020-04-06.
+
+\bibitem{WEBSITE:2}
+\url{https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing}.
+\newblock Accessed on 2020-04-06.
+
+\bibitem{WEBSITE:3}
+\url{https://realpython.com/python-testing/unit-tests-vs-integration-tests}.
+\newblock Accessed on 2020-04-06.
+
+\bibitem{WEBSITE:4}
+\url{https://docs.python.org/3/library/unittest.html#assert-methods}.
+\newblock Accessed on 2020-04-06.
+
+\bibitem{WEBSITE:5}
+\url{https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing}.
+\newblock Accessed on 2020-04-06.
+
+\end{thebibliography}
